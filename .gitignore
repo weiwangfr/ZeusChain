@@ -1,0 +1,34 @@
+# Binaries for programs and plugins
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Test binary, built with `go test -c`
+*.test
+
+# Output of the go coverage tool, specifically when used with LiteIDE
+*.out
+
+# Dependency directories (remove the comment below to include it)
+# vendor/
+#
+cmd/bdls/bdls
+.DS_Store
+cmd/geth/geth
+build/bin/abidump
+build/bin/abigen
+build/bin/bootnode
+build/bin/rlpdump
+build/bin/p2psim
+build/bin/examples
+build/bin/evm
+build/bin/ethkey
+build/bin/checkpoint-admin
+build/bin/clef
+build/bin/devp2p
+build/bin/faucet
+build/bin/puppeth
+build/bin/wnode
+build/bin/geth
