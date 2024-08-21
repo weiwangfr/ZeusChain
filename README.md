@@ -6,7 +6,7 @@ Most functionalities of this client is similar to the Ethereum golang implementa
 
 Download the source as
 ```
-git clone https://github.com/weiwang/ZeusChain.git
+git clone https://github.com/weiwangfr/ZeusChain.git
 cd ZeusChain/cmd/geth
 go build .
 ```
