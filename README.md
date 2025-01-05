@@ -1,5 +1,7 @@
 ## ZeusChain Blockchain
 
+This implementation is based on my research paper: [ZeuoChain][url](https://github.com/weiwangfr/ZeusChain/blob/main/docs/audits/billChain.pdf) that I have prepared for 2025 ISEF Competition.
+
 Most functionalities of this client is similar to the Ethereum golang implementation. If you do not find your question answered by the documentation, try searching the geth wiki.
 
 ## Building the source
